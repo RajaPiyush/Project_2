@@ -2,8 +2,6 @@
 IT involves a project related to the technologies with HTML, CSS, PHP
 
 
-Sure, here's a short summary you could include in your README file:
-
 ---
 
 **Project Summary: User Registration System**
